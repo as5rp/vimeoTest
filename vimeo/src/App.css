@@ -1,0 +1,25 @@
+.App {
+}
+.monsoon {
+  padding: 40px;
+  float: right;
+  display: inline;
+  margin-bottom: 50px;
+  margin-top: 50px;
+   
+ }
+.beams {
+  padding: 40px;
+  float: left;
+  display: inline-block;
+  background-color: dimgray;
+  color: white;
+}
+.move {
+  padding: 40px;
+  float: right;
+  display: inline-block;
+  background-color: silver;
+  color: white;
+  background-image: linear-gradient(dimgray, silver);
+}
