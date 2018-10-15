@@ -1,11 +1,15 @@
-.App {
-}
+
 .monsoon {
   padding: 40px;
   float: right;
   display: inline;
   margin-bottom: 50px;
   margin-top: 50px;
+  background-color: white;
+ }
+ .monsoon-wrap{
+   vertical-align: center;
+   position: relative;
    
  }
 .beams {
@@ -22,4 +26,8 @@
   background-color: silver;
   color: white;
   background-image: linear-gradient(dimgray, silver);
+}
+Carousel {
+  background-image:linear-gradient(dimgray, silver) ;
+  text-align: center;
 }
